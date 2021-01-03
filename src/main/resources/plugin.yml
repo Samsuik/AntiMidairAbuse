@@ -1,0 +1,6 @@
+name: AntiMidairAbuse
+version: ${project.version}
+main: me.suicidalkids.antimidairabuse.AntiMidairAbuse
+authors: [ SK ]
+description: This fixes players being able to midair stack across plots
+depend: [ PlotSquared ]
